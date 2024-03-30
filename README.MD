@@ -1,4 +1,4 @@
-<h3>Compte Rendu KAINE CHAIMAA 4IIR GROUPE 1</h3>
+<h3>Compte Rendu </h3>
 <h4>1-instanciation  statique</h4>
 <img src="CAPTURE/img.png"/>
 <h4>2-instanciation dynamique </h4>
